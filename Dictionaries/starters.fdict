@@ -1,0 +1,19 @@
+DICT_NAME:STARTERS
+WORD_CATEGORY:STARTER
+DICT_DESC:Words used to start a sentence.
+
+BEGIN FDICT
+so|any
+what|article pronoun
+I'm|verb adverb article
+haha|any
+but|article noun
+the|adverb noun adjective
+why|auxiliaryverb
+who|auxiliaryverb
+when|auxiliaryverb
+where|auxiliaryverb
+and|any
+a|consonantword adjective noun
+an|vowelword adjective noun
+END FDICT

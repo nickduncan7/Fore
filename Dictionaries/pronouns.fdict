@@ -1,0 +1,14 @@
+DICT_NAME:PRONOUNS
+WORD_CATEGORY:PRONOUN
+DICT_DESC:A small list of pronouns for usage with Fore.
+
+BEGIN FDICT
+I|any
+he|any
+she|any
+you|any
+it|any
+many|any
+someone|any
+everybody|any
+END FDICT

@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fore", "Fore\Fore.csproj", "{458009BD-9721-417A-B3F0-3AFC8FBA1FCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Loader", "Data Loader", "{16CB283E-B08A-4BF4-9055-EFFB81745E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLoader", "DataLoader\DataLoader.csproj", "{FAB763DD-755F-4EA5-8E8B-F95420C1F2B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{C0D97106-594D-4E2D-92B1-BDD940BAAF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{63E59505-37E2-491C-A5FB-5BAD4BE7BD9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionaries", "Dictionaries", "{2A645D9C-7CDD-4C1F-A669-1B2F0FE2EEA6}"
+	ProjectSection(SolutionItems) = preProject
+		Dictionaries\adjectives.fdict = Dictionaries\adjectives.fdict
+		Dictionaries\adverbs.fdict = Dictionaries\adverbs.fdict
+		Dictionaries\nouns.fdict = Dictionaries\nouns.fdict
+		Dictionaries\pronouns.fdict = Dictionaries\pronouns.fdict
+		Dictionaries\starters.fdict = Dictionaries\starters.fdict
+		Dictionaries\verbs.fdict = Dictionaries\verbs.fdict
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://protocol114.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Fore\\Fore.csproj
+		SccProjectName1 = Fore
+		SccLocalPath1 = Fore
+		SccProjectUniqueName2 = DataLoader\\DataLoader.csproj
+		SccProjectTopLevelParentUniqueName2 = Fore.sln
+		SccProjectName2 = DataLoader
+		SccLocalPath2 = DataLoader
+		SccProjectUniqueName3 = Common\\Common.csproj
+		SccProjectTopLevelParentUniqueName3 = Fore.sln
+		SccProjectName3 = Common
+		SccLocalPath3 = Common
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{458009BD-9721-417A-B3F0-3AFC8FBA1FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458009BD-9721-417A-B3F0-3AFC8FBA1FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458009BD-9721-417A-B3F0-3AFC8FBA1FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458009BD-9721-417A-B3F0-3AFC8FBA1FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB763DD-755F-4EA5-8E8B-F95420C1F2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB763DD-755F-4EA5-8E8B-F95420C1F2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB763DD-755F-4EA5-8E8B-F95420C1F2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB763DD-755F-4EA5-8E8B-F95420C1F2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E59505-37E2-491C-A5FB-5BAD4BE7BD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E59505-37E2-491C-A5FB-5BAD4BE7BD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E59505-37E2-491C-A5FB-5BAD4BE7BD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E59505-37E2-491C-A5FB-5BAD4BE7BD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FAB763DD-755F-4EA5-8E8B-F95420C1F2B8} = {16CB283E-B08A-4BF4-9055-EFFB81745E1E}
+		{63E59505-37E2-491C-A5FB-5BAD4BE7BD9C} = {C0D97106-594D-4E2D-92B1-BDD940BAAF64}
+	EndGlobalSection
+EndGlobal

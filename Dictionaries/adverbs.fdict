@@ -1,0 +1,36 @@
+DICT_NAME:ADVERBS
+WORD_CATEGORY:ADVERB
+DICT_DESC:A small list of adverbs for usage with Fore.
+
+BEGIN FDICT
+always|any
+every|any
+never|any
+often|any
+rarely|any
+seldom|any
+sometimes|any
+after|any
+already|any
+during|any
+finally|any
+just|any
+last|any
+later|any
+next|any
+carefully|any
+correctly|any
+eagerly|any
+easily|any
+fast|any
+loudly|any
+patiently|any
+here|any
+home|any
+in|any
+nowhere|any
+out|any
+outside|any
+somewhere|any
+there|any
+END FDICT

@@ -1,0 +1,75 @@
+DICT_NAME:VERBS
+WORD_CATEGORY:VERB
+DICT_DESC:A small list of verbs for usage with Fore.
+
+BEGIN FDICT
+kick|verb-present:kicking verb-past:kicked verb-third-person:kicks|any
+fart|verb-present:farting verb-past:farted verb-third-person:farts|any
+tweet|verb-present:tweeting verb-past:tweeted verb-third-person:tweets|any
+walk|verb-present:walking verb-past:walked verb-third-person:walks|any
+kill|verb-present:killing verb-past:killed verb-third-person:kills|any
+write|verb-present:writing verb-past:wrote verb-third-person:writes|any
+remember|verb-present:remembering verb-past:remembered verb-third-person:remembers|any
+go|verb-present:going verb-past:went verb-third-person:goes|any
+have|verb-present:having verb-past:had verb-third-person:has|any
+tease|verb-present:teasing verb-past:teased verb-third-person:teases|any
+phone|verb-present:phoning verb-past:phoned verb-third-person:phones|any
+nest|verb-present:nesting verb-past:nested verb-third-person:nests|any
+list|verb-present:listing verb-past:listed verb-third-person:lists|any
+bless|verb-present:blessing verb-past:blessed verb-third-person:blesses|any
+receive|verb-present:receiving verb-past:received verb-third-person:receives|any
+detect|verb-present:detecting verb-past:detected verb-third-person:detects|any
+tickle|verb-present:tickling verb-past:tickled verb-third-person:tickles|any
+peck|verb-present:peeking verb-past:peeked verb-third-person:peeks|any
+offer|verb-present:offering verb-past:offered verb-third-person:offers|any
+double|verb-present:doubling verb-past:doubled verb-third-person:doubles|any
+smash|verb-present:smashing verb-past:smashed verb-third-person:smashes|any
+suppose|verb-present:supposing verb-past:supposed verb-third-person:supposes|any
+return|verb-present:returning verb-past:returned verb-third-person:returns|any
+describe|verb-present:describing verb-past:described verb-third-person:describes|any
+explain|verb-present:explaining verb-past:explained verb-third-person:explains|any
+possess|verb-present:posessing verb-past:posessed verb-third-person:posesses|any
+check|verb-present:checking verb-past:checked verb-third-person:checks|any
+whistle|verb-present:whistling verb-past:whistled verb-third-person:whistles|any
+suggest|verb-present:suggesting verb-past:suggested verb-third-person:suggests|any
+obey|verb-present:obeying verb-past:obeyed verb-third-person:obeys|any
+squeeze|verb-present:squeezing verb-past:squeezed verb-third-person:squeezes|any
+hum|verb-present:humming verb-past:hummed verb-third-person:hums|any
+promise|verb-present:promising verb-past:promised verb-third-person:promises|any
+drain|verb-present:draining verb-past:drained verb-third-person:drains|any
+scrape|verb-present:scraping verb-past:scraped verb-third-person:scrapes|any
+amuse|verb-present:amusing verb-past:amused verb-third-person:amuses|any
+afford|verb-present:affording verb-past:afforded verb-third-person:affords|any
+approve|verb-present:approving verb-past:approved verb-third-person:approves|any
+blind|verb-present:blinding verb-past:blinded verb-third-person:blinds|any
+scrub|verb-present:scrubbing verb-past:scrubbed verb-third-person:scrubs|any
+employ|verb-present:employing verb-past:employed verb-third-person:employs|any
+delay|verb-present:delaying verb-past:delayed verb-third-person:delays|any
+radiate|verb-present:radiating verb-past:radiated verb-third-person:radiates|any
+plug|verb-present:plugging verb-past:plugged verb-third-person:plugs|any
+trot|verb-present:trotting verb-past:trotted verb-third-person:trots|any
+flap|verb-present:flapping verb-past:flapped verb-third-person:flaps|any
+enter|verb-present:entering verb-past:entered verb-third-person:enters|any
+expand|verb-present:expanding verb-past:expanded verb-third-person:expands|any
+attract|verb-present:attracting verb-past:attracted verb-third-person:attracts|any
+report|verb-present:reporting verb-past:reported verb-third-person:reports|any
+stuff|verb-present:stuffing verb-past:stuffed verb-third-person:stuffs|any
+advise|verb-present:advising verb-past:advised verb-third-person:advises|any
+cross|verb-present:crossing verb-past:crossed verb-third-person:crosses|any
+glue|verb-present:gluing verb-past:glued verb-third-person:glues|any
+complain|verb-present:complaining verb-past:complained verb-third-person:complains|any
+instruct|verb-present:instructing verb-past:instructed verb-third-person:instructs|any
+injure|verb-present:injuring verb-past:injured verb-third-person:injures|any
+zip|verb-present:zipping verb-past:zipped verb-third-person:zips|any
+crush|verb-present:crushing verb-past:crushed verb-third-person:crushes|any
+whisper|verb-present:whispering verb-past:whispered verb-third-person:whispers|any
+spill|verb-present:spilling verb-past:spilled verb-third-person:spills|any
+type|verb-present:typing verb-past:typed verb-third-person:types|any
+hunt|verb-present:hunting verb-past:hunted verb-third-person:hunts|any
+scare|verb-present:scaring verb-past:scared verb-third-person:scares|any
+boil|verb-present:boiling verb-past:boiled verb-third-person:boils|any
+prick|verb-present:pricking verb-past:pricked verb-third-person:pricks|any
+roll|verb-present:rolling verb-past:rolled verb-third-person:rolls|any
+peep|verb-present:peeping verb-past:peeped verb-third-person:peeps|any
+exercise|verb-present:exercising verb-past:exercised verb-third-person:exercises|any
+END FDICT
